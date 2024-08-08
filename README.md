@@ -1,6 +1,6 @@
 # Your Username = Your Own Personal 📚 Notebooks Dashboard 📊
 
-#picture
+![19](https://github.com/user-attachments/assets/1a465ac1-b8ed-482a-9924-17f745e5e220)
 
 1. Import **libraries** and **datasets** 
 2. Retreiving **AuthorUserId**
